@@ -7,3 +7,4 @@ scripts used in the dryhazard paper
 4. New_Lisflood_Soilmoisture_Ovima.pro: original script to calculate soil moisture drought for dry hazard paper.
 5. New-WB_Threshold_Soilmoisture.pro: original script to calculate the drought threshold using the daily variable threshold method (VTM). The saved threshold is used for drought calculation (New_Lisflood_Soilmoisture_Ovima.pro). 
 6. Sequent_Cascading_June19.pro: script to calculate the sequent of cascading event for dry hazards (the results are presented in table). The datasets are available with doi:10.5281/zenodo.7451196
+7. paper_dry_hazards.R: script in R studio to identify the dry hazard hotspots
